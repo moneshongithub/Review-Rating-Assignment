@@ -1,0 +1,49 @@
+.container {
+    width: 80%;
+    margin: 40px auto;
+  }
+  
+  .filter-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    margin-bottom: 40px;
+  }
+  
+  .filter-left {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .filter-right {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .input {
+    width: 300px;
+    padding: 12px;
+  
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    background: #7b2cff;
+    color: white;
+  
+    border: none;
+  
+    padding: 12px 24px;
+  
+    border-radius: 5px;
+  }
+  
+  .sort {
+    width: 180px;
+    padding: 12px;
+  
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
